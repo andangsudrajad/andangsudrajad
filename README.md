@@ -1,3 +1,3 @@
 - 👋 Hi, I’m andang sudrajad
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning in Telkom University
